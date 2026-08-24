@@ -1,0 +1,8 @@
+{
+  "name": "@genobj/plf-cicd-fixture",
+  "version": "0.0.1",
+  "description": "CI/CD 사슬 카나리아 — 기능 없음. 버전만 올린다.",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "private": false
+}
