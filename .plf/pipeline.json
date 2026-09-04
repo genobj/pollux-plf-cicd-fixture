@@ -1,0 +1,5 @@
+{
+  "$schema": "https://genobj.github.io/pollux/plf-pipeline.schema.json",
+  "managed_by": "pollux-plf-cicd-mw",
+  "kind": "package"
+}
